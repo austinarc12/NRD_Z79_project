@@ -1,4 +1,4 @@
-R code used in project titled "Trends in Long-Term Medication use Coding in the NRD from 2016-2020"
+Here you can find the R code used in project titled "Trends in Long-Term Medication use Coding in the NRD from 2016-2020"
 
 Our aim in this project was to explore trends in long-term current medication use through Z79 coding in the NRD from 2016 to 2020.
 We also attempted to identify medication cessation events (MCE) upon hospital readmissions.
